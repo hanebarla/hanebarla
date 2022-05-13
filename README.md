@@ -1,9 +1,16 @@
-### Hi！！ I'm Hanebarla 👋😄
+### Hane's Profile
 
-<p align="left"> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanebarla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanebarla&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanebarla&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanebarla&layout=compact" />
+</a>
+<br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=hanebarla&column=7" />
+</a>
 
   
 <!--
